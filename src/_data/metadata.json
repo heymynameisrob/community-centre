@@ -1,0 +1,15 @@
+{
+  "title": "Rob Hough - Product Designer from the UK",
+  "url": "https://heymynamerob.com",
+  "description": "Found It! is a podcast all about founders and leaders of small, independent startups. We tell their against-all-odds tales, giving a voice to the thousands of visionaries build great products.",
+  "feed": {
+    "subtitle": "Found It! is a podcast all about founders and leaders of small, independent startups. We tell their against-all-odds tales, giving a voice to the thousands of visionaries build great products.",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "https://heymynameisrob.com"
+  },
+  "author": {
+    "name": "rob hough",
+    "email": "robhough@hey.com"
+  }
+}
