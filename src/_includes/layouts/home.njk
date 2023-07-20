@@ -1,0 +1,16 @@
+---
+layout: layouts/base.njk
+templateClass: home
+---
+<div class="md:grid grid-cols-8 gap-8 py-8 justify-center content-center lg:py-16">
+  <aside class="grid place-items-center col-span-3 order-1">
+    <img src="/static/centre.jpeg" alt="placeholder image" class="w-full rounded-full">
+  </aside>
+  <section class="col-span-5 mt-12 md:mt-0">
+    <div class="prose prose-stone lg:prose-lg">
+      <h3>{{ title }}</h3>
+      {{ content | safe }}
+    </div>
+  </section>
+</div>
+  
