@@ -11,8 +11,8 @@ In 2022 it was awarded a grant by ESBC to repair the damaged floor and enable th
 
 The Community Centre committee are particularly interested in attracting groups to meet in the evenings.
 
-Please call [07495259499](tel://+447495259499) (evenings and weekends only) to enquire about booking or E mail [bookingsecretary@wetmorecc.co.uk](mailto:bookingsecretary@wetmorecc.co.uk) 
+Please call [07495259499](tel://+447495259499) (evenings and weekends only) to enquire about booking or E mail [bookingsecretary@wetmorecommunitycentre.co.uk](mailto:bookingsecretary@wetmorecommunitycentre.co.uk) 
 
-You can access the booking calendar <a href="#">here</a> and register your interest in a particular date.
+You can access the booking calendar <a href="https://forms.gle/T2CPB1AnvZf4keQ97">here</a> and register your interest in a particular date.
 
 <small>Registered charity in England and Wales. No 1118632</small>
