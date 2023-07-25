@@ -1,15 +1,15 @@
 {
-  "title": "Rob Hough - Product Designer from the UK",
-  "url": "https://heymynamerob.com",
-  "description": "Found It! is a podcast all about founders and leaders of small, independent startups. We tell their against-all-odds tales, giving a voice to the thousands of visionaries build great products.",
+  "title": "Hire Local Community Center Burton - Wetmore Community Center - Burton On Trent, UK",
+  "url": "https://www.wetmorecommunitycenter.co.uk",
+  "description": "We are a small Community Centre in the heart of Wetmore, Burton on Trent.",
   "feed": {
-    "subtitle": "Found It! is a podcast all about founders and leaders of small, independent startups. We tell their against-all-odds tales, giving a voice to the thousands of visionaries build great products.",
+    "subtitle": "We are a small Community Centre in the heart of Wetmore, Burton on Trent. Hire our local community center in Wetmore, Burton On Trent.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://heymynameisrob.com"
+    "id": "https://www.wetmorecommunitycenter.co.uk"
   },
   "author": {
-    "name": "rob hough",
-    "email": "robhough@hey.com"
+    "name": "Paula Hough",
+    "email": "paulahough1967@gmail.com"
   }
 }
